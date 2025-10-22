@@ -24,9 +24,9 @@ cosmic-exoplanet-analysis/
 
 ## Steps to Run
 1. Install required libraries:
-   ```bash
+```bash
    pip install pandas matplotlib seaborn
-````
+```
 
 2. Open Jupyter Notebook:
 
